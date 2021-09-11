@@ -1,2 +1,2 @@
-# computer_vision_projects
-Computer vision projects
+# Computer Vision Projects
+Different computer vision projects
